@@ -59,6 +59,8 @@ class DetailViewController: UIViewController, UITableViewDelegate, UITableViewDa
             cell.configure(location: local1)
             return cell
         }
+        
+        
     } 
 
     //
